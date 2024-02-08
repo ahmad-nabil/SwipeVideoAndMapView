@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056336600408",
+    "project_id": "mapbox-30979",
+    "storage_bucket": "mapbox-30979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056336600408:android:a8b342d0f91ef0e1fc992d",
+        "android_client_info": {
+          "package_name": "com.ahmad.advancedcoded"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Tn8w4EmhgIkDduoHX0GUaDG5YrzeLWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
